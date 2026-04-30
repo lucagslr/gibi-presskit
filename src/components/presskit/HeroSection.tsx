@@ -1,7 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import { ArrowDown, Play, Mail } from 'lucide-react';
-import SectionTitle from '../ui/SectionTitle';
 import Badge from '../ui/Badge';
 import ResponsiveImage from '../ui/ResponsiveImage';
 import { media } from '../../data/media';
@@ -101,7 +100,7 @@ export default function HeroSection({ isLoaded }: HeroSectionProps) {
           transition={{ duration: 0.6, delay: 0.5 }}
           className="flex flex-wrap justify-center gap-3 mb-12"
         >
-          {badges.map((badge, index) => (
+          {badges.map((badge) => (
             <Badge key={badge.key} color={badge.color}>
               {badge.key === 'rb' ? 'R&B' : badge.key === '8090s' ? '80s/90s' : badge.key === '5lgenesis' ? '5LGenesis' : 'Genève'}
             </Badge>
