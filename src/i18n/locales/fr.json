@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "pressKit": "PRESS KIT",
+    "artistName": "GIBI",
+    "projectTitle": "I SHINE BETTER AT NIGHT",
+    "firstSoloProject": "Premier projet solo",
+    "releaseDate": "Sortie le 1er mai 2026",
+    "mediaQuote": "Gibi, membre originaire de La 5LGenesis, dévoile son premier projet solo « I SHINE BETTER AT NIGHT », un EP R&B nocturne inspiré par Plainpalais, Paris, le gospel et les sonorités 80s / 90s.",
+    "ctaTracklist": "Voir la tracklist",
+    "ctaContact": "Contact",
+    "scrollHint": "Découvrir"
+  },
+  "project": {
+    "title": "Le projet",
+    "description": "« I SHINE BETTER AT NIGHT » est le premier projet solo de Gibi. Il a vu le jour lors d'un séminaire à Paris avec l'équipe de Shorty7G, un moment de travail, d'apprentissage et de création qui a permis à l'artiste d'explorer plus profondément sa voix, ses mélodies et son univers.",
+    "description2": "Pendant ces trois semaines à Paris, Gibi a appris, observé, expérimenté. Dans les temps libres, il a transformé ces nouvelles compétences en musique. Le résultat : quatre morceaux construits comme des scènes nocturnes, entre souvenirs, émotions, lumières urbaines et confidences mélodiques.",
+    "description3": "Le projet mélange son héritage musical personnel — le R&B entendu à la maison, les chansons congolaises, les inspirations gospel — avec une esthétique plus cinématographique, marquée par les sons classiques des années 80 / 90. On y retrouve une musique chaude dans un décor froid : des ruelles, des lampadaires, des reflets, des nuits où l'artiste semble trouver plus de clarté que le jour.",
+    "quote": "Gibi ne fuit pas la nuit, il l'illumine.",
+    "keywords": {
+      "paris": "Paris",
+      "plainpalais": "Plainpalais",
+      "gospel": "Gospel",
+      "rb": "R&B",
+      "8090s": "80/90s",
+      "coldStreets": "Ruelles froides",
+      "urbanLights": "Lumières urbaines"
+    },
+    "stats": {
+      "tracks": "4 titres",
+      "solo": "1er projet solo",
+      "release": "01.05.2026"
+    }
+  },
+  "bio": {
+    "title": "Biographie",
+    "intro": "Gibi est un artiste genevois originaire du quartier de Plainpalais, Genève 1205, membre originaire du groupe La 5LGenesis.",
+    "paragraph1": "Issu d'une famille aux origines belges, congolaises et algériennes, il grandit dans un environnement musical riche, traversé par plusieurs cultures. À la maison, il écoute beaucoup de R&B, mais aussi des chansons congolaises, des mélodies populaires et des sonorités venues de différents horizons. Ces influences multiples construisent peu à peu son oreille, son goût pour les harmonies et son rapport très instinctif à la mélodie.",
+    "paragraph2": "C'est dans le gospel que Gibi trouve véritablement sa voix. Ce rapport au chant, à l'émotion directe et à l'intensité vocale devient une base importante de son identité artistique. Entre 2023 et 2026, il fait ses premiers pas avec La 5LGenesis, groupe toujours actif, où il se distingue par des refrains forts et des mélodies marquantes, notamment sur des morceaux comme « Bounce » ou « Face2Face », issu de la 5LDB Tape.",
+    "paragraph3": "Avec « I SHINE BETTER AT NIGHT », Gibi présente pour la première fois un projet à son nom. Il ne quitte pas La 5LGenesis : il élargit simplement son territoire. Ce premier EP lui permet de mettre au premier plan sa sensibilité R&B, son imaginaire nocturne et cette capacité à transformer des souvenirs personnels en chansons lumineuses.",
+    "note": "Gibi reste membre de La 5LGenesis. Ce projet est une extension, non une rupture."
+  },
+  "tracklist": {
+    "title": "Tracklist",
+    "track1": {
+      "title": "Smooth Criminal",
+      "producer": "Prod. by Luca Gisler"
+    },
+    "track2": {
+      "title": "Spotlights",
+      "producer": "Prod. by Nathandiorr & Luca Gisler"
+    },
+    "track3": {
+      "title": "Love Story feat. TEI'O",
+      "producer": "Prod. by Luca Gisler",
+      "note": "Avec TEI'O, rappeur et chanteur R&B originaire des États-Unis, rencontré lors de la Fashion Week. Une connexion naturelle s'est créée entre les deux artistes, donnant naissance à un morceau plus sentimental, entre attraction, souvenir et mélodie."
+    },
+    "track4": {
+      "title": "Genève",
+      "producer": "Prod. by Luca Gisler"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Informations presse",
+    "mediaQuote": "Phrase média",
+    "copySuccess": "Copié !",
+    "artist": {
+      "label": "Artiste",
+      "instagram": "@gibi_5lg"
+    },
+    "manager": {
+      "label": "Manager",
+      "name": "Khaled",
+      "instagram": "@khaled.sd1",
+      "phone": "+41 77 694 77 29"
+    },
+    "cta": {
+      "instagram": "Instagram Artiste",
+      "instagramManager": "Instagram Manager",
+      "call": "Appeler"
+    }
+  },
+  "nav": {
+    "hero": "Accueil",
+    "project": "Projet",
+    "bio": "Bio & Tracks",
+    "contact": "Contact"
+  }
+}

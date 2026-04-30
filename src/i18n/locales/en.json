@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "pressKit": "PRESS KIT",
+    "artistName": "GIBI",
+    "projectTitle": "I SHINE BETTER AT NIGHT",
+    "firstSoloProject": "First solo project",
+    "releaseDate": "Release May 1st, 2026",
+    "mediaQuote": "Gibi, original member of La 5LGenesis, unveils his first solo project « I SHINE BETTER AT NIGHT », a nocturnal R&B EP inspired by Plainpalais, Paris, gospel and 80s/90s sounds.",
+    "ctaTracklist": "View tracklist",
+    "ctaContact": "Contact",
+    "scrollHint": "Discover"
+  },
+  "project": {
+    "title": "The Project",
+    "description": "« I SHINE BETTER AT NIGHT » is Gibi's first solo project. It was born during a seminar in Paris with Shorty7G's team, a time of work, learning and creation that allowed the artist to deeply explore his voice, melodies and universe.",
+    "description2": "During those three weeks in Paris, Gibi learned, observed, experimented. In his free time, he turned these new skills into music. The result: four tracks built like nocturnal scenes, between memories, emotions, urban lights and melodic confidences.",
+    "description3": "The project blends his personal musical heritage — R&B heard at home, Congolese songs, gospel inspirations — with a more cinematic aesthetic, marked by classic 80s/90s sounds. There's warm music in a cold setting: streets, streetlights, reflections, nights where the artist seems to find more clarity than in daylight.",
+    "quote": "Gibi doesn't flee the night, he illuminates it.",
+    "keywords": {
+      "paris": "Paris",
+      "plainpalais": "Plainpalais",
+      "gospel": "Gospel",
+      "rb": "R&B",
+      "8090s": "80/90s",
+      "coldStreets": "Cold streets",
+      "urbanLights": "Urban lights"
+    },
+    "stats": {
+      "tracks": "4 tracks",
+      "solo": "First solo project",
+      "release": "01.05.2026"
+    }
+  },
+  "bio": {
+    "title": "Biography",
+    "intro": "Gibi is a Geneva-based artist from the Plainpalais district, Geneva 1205, original member of the group La 5LGenesis.",
+    "paragraph1": "Coming from a family of Belgian, Congolese and Algerian origins, he grew up in a rich musical environment, crossed by several cultures. At home, he listens to a lot of R&B, but also Congolese songs, popular melodies and sounds from different horizons. These multiple influences gradually build his ear, his taste for harmonies and his very instinctive relationship to melody.",
+    "paragraph2": "It is in gospel that Gibi truly finds his voice. This relationship to singing, direct emotion and vocal intensity becomes an important base of his artistic identity. Between 2023 and 2026, he makes his first steps with La 5LGenesis, still an active group, where he stands out for strong choruses and striking melodies, particularly on tracks like « Bounce » or « Face2Face », from the 5LDB Tape.",
+    "paragraph3": "With « I SHINE BETTER AT NIGHT », Gibi presents for the first time a project under his own name. He doesn't leave La 5LGenesis: he simply expands his territory. This first EP allows him to put forward his R&B sensitivity, his nocturnal imagination and this ability to transform personal memories into luminous songs.",
+    "note": "Gibi remains a member of La 5LGenesis. This project is an extension, not a break."
+  },
+  "tracklist": {
+    "title": "Tracklist",
+    "track1": {
+      "title": "Smooth Criminal",
+      "producer": "Prod. by Luca Gisler"
+    },
+    "track2": {
+      "title": "Spotlights",
+      "producer": "Prod. by Nathandiorr & Luca Gisler"
+    },
+    "track3": {
+      "title": "Love Story feat. TEI'O",
+      "producer": "Prod. by Luca Gisler",
+      "note": "With TEI'O, R&B rapper and singer from the United States, met during Fashion Week. A natural connection was created between the two artists, giving birth to a more sentimental track, between attraction, memory and melody."
+    },
+    "track4": {
+      "title": "Genève",
+      "producer": "Prod. by Luca Gisler"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Press information",
+    "mediaQuote": "Media quote",
+    "copySuccess": "Copied!",
+    "artist": {
+      "label": "Artist",
+      "instagram": "@gibi_5lg"
+    },
+    "manager": {
+      "label": "Manager",
+      "name": "Khaled",
+      "instagram": "@khaled.sd1",
+      "phone": "+41 77 694 77 29"
+    },
+    "cta": {
+      "instagram": "Artist Instagram",
+      "instagramManager": "Manager Instagram",
+      "call": "Call"
+    }
+  },
+  "nav": {
+    "hero": "Home",
+    "project": "Project",
+    "bio": "Bio & Tracks",
+    "contact": "Contact"
+  }
+}
